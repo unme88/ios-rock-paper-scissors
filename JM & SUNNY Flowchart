@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T07:37:46.891Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="AmZcJ2669d4Ht_i_ynI_" version="14.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-02T09:13:06.252Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="jKpEMQFzpyI8_y_5bGtP" version="14.4.3" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Step1">
-    <mxGraphModel dx="2241" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,11 +138,12 @@
         <mxCell id="D49KBRyCb9hMb6GfWRfm-90" value="잘못된 입력입니다. &lt;br&gt;다시 시도해주세요." style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="720" y="400" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="D49KBRyCb9hMb6GfWRfm-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" parent="1" source="D49KBRyCb9hMb6GfWRfm-97" edge="1">
+        <mxCell id="D49KBRyCb9hMb6GfWRfm-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;entryX=0.114;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="D49KBRyCb9hMb6GfWRfm-97" edge="1" target="3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="40" y="580" />
+              <mxPoint x="40" y="161" />
             </Array>
           </mxGeometry>
         </mxCell>
