@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T07:29:32.431Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="ZWjLN0pPIDLQIBu-g5DT" version="14.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-02T07:30:43.361Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="XGrN3HzQEKDY27N7dpMk" version="14.4.3" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Step1">
     <mxGraphModel dx="1511" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
         <mxCell id="RlKhbDRPeayk6LR9xO6a-0" value="startGame" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
           <mxGeometry x="620" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RlKhbDRPeayk6LR9xO6a-1" value="print&amp;nbsp;&lt;br&gt;가위(1), 바위(2), 보(3)! &lt;br&gt;&amp;lt;종료 : 0&amp;gt; :" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
+        <mxCell id="RlKhbDRPeayk6LR9xO6a-1" value="print&amp;nbsp;&lt;br&gt;&lt;br&gt;가위(1), 바위(2), 보(3)! &lt;br&gt;&amp;lt;종료 : 0&amp;gt; :" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
           <mxGeometry x="600.5" y="220" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RlKhbDRPeayk6LR9xO6a-2" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="F-zWy00sMtQddmF7e1Bv-1" source="RlKhbDRPeayk6LR9xO6a-0" target="RlKhbDRPeayk6LR9xO6a-1">
@@ -308,7 +308,7 @@
             <mxPoint x="520" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RlKhbDRPeayk6LR9xO6a-15" value="게임 종료" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
+        <mxCell id="RlKhbDRPeayk6LR9xO6a-15" value="print&lt;br&gt;&lt;br&gt;게임 종료" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
           <mxGeometry x="480" y="770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RlKhbDRPeayk6LR9xO6a-16" value="컴퓨터 랜덤 숫자: 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
@@ -377,7 +377,7 @@
             <mxPoint x="1120" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RlKhbDRPeayk6LR9xO6a-28" value="잘못된 입력입니다. &lt;br&gt;다시 시도해주세요." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
+        <mxCell id="RlKhbDRPeayk6LR9xO6a-28" value="print&lt;br&gt;&lt;br&gt;잘못된 입력입니다. &lt;br&gt;다시 시도해주세요." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
           <mxGeometry x="1080" y="490" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RlKhbDRPeayk6LR9xO6a-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" edge="1" parent="F-zWy00sMtQddmF7e1Bv-1" source="RlKhbDRPeayk6LR9xO6a-30">
@@ -388,13 +388,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RlKhbDRPeayk6LR9xO6a-30" value="비겼습니다!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
+        <mxCell id="RlKhbDRPeayk6LR9xO6a-30" value="print&lt;br&gt;&lt;br&gt;비겼습니다!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
           <mxGeometry x="620" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RlKhbDRPeayk6LR9xO6a-31" value="이겼습니다!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
+        <mxCell id="RlKhbDRPeayk6LR9xO6a-31" value="print&lt;br&gt;&lt;br&gt;이겼습니다!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
           <mxGeometry x="770" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RlKhbDRPeayk6LR9xO6a-32" value="졌습니다!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
+        <mxCell id="RlKhbDRPeayk6LR9xO6a-32" value="print&lt;br&gt;&lt;br&gt;졌습니다!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
           <mxGeometry x="920" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RlKhbDRPeayk6LR9xO6a-33" value="" style="endArrow=classic;html=1;entryX=0.417;entryY=-0.017;entryDx=0;entryDy=0;strokeColor=#FF0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="F-zWy00sMtQddmF7e1Bv-1" source="RlKhbDRPeayk6LR9xO6a-16" target="RlKhbDRPeayk6LR9xO6a-30">
@@ -778,10 +778,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RlKhbDRPeayk6LR9xO6a-97" value="사용자의 승리!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
+        <mxCell id="RlKhbDRPeayk6LR9xO6a-97" value="print&lt;br&gt;&lt;br&gt;사용자의 승리!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
           <mxGeometry x="434.06999999999994" y="1540" width="166.43" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RlKhbDRPeayk6LR9xO6a-98" value="컴퓨터의 승리!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
+        <mxCell id="RlKhbDRPeayk6LR9xO6a-98" value="print&lt;br&gt;&lt;br&gt;컴퓨터의 승리!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="F-zWy00sMtQddmF7e1Bv-1">
           <mxGeometry x="661" y="1540" width="166.43" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RlKhbDRPeayk6LR9xO6a-105" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="F-zWy00sMtQddmF7e1Bv-1" source="RlKhbDRPeayk6LR9xO6a-77" target="RlKhbDRPeayk6LR9xO6a-97">
